@@ -1,0 +1,9 @@
+.monsterCard {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	background-color: #95dada;
+	margin: 1em;
+	width: 20em;
+	height: auto;
+}
